@@ -1,0 +1,4 @@
+# Don't track such file and directories
+
+/tmp
+*.pdf
