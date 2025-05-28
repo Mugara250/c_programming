@@ -30,6 +30,7 @@ int main()
         if (isPrime)
         {
             prime_count++;
+            printf("%d\n", i);
         }
     }
 
